@@ -1,0 +1,10 @@
+38727 200 - GET /posts
+38727 200 - POST /post/create
+38727 200 - GET /posts
+38808 500 - PUT /post/update/2
+38808 200 - GET /posts
+38808 200 - PUT /post/update/d92ec438-91e1-4a8e-ad46-56e366838730
+38808 200 - GET /posts
+38808 200 - GET /post/d92ec438-91e1-4a8e-ad46-56e366838730
+38808 200 - DELETE /post/delete/d92ec438-91e1-4a8e-ad46-56e366838730
+38808 200 - GET /posts
